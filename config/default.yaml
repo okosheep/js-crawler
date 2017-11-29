@@ -1,0 +1,2 @@
+config:
+    startPage: "https://httpbin.org/"
